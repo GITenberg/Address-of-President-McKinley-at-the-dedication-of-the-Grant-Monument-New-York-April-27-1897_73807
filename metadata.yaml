@@ -1,0 +1,32 @@
+_repo: Address-of-President-McKinley-at-the-dedication-of-the-Grant-Monument-New-York-April-27-1897_73807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKinley, William
+    alias: United States President (1897-1901)
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '1656'
+    url: http://www.gutenberg.org/2009/agents/1656
+    wikipedia: https://en.wikipedia.org/wiki/William_McKinley
+description: ''
+gutenberg_issued: '2024-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73807'
+language: en
+pgterms:marc904: https://archive.org/details/addressofpreside00mcki
+pgterms:marc905: 20240609113431mckinley
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings (from images generously made available
+  by The Internet Archive/Library of Congress.)
+publication_note: '  $aWashington :$bnot given, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Address of President McKinley, at the dedication of the Grant Monument, New
+  York, April 27, 1897
+url: http://www.gutenberg.org/ebooks/73807

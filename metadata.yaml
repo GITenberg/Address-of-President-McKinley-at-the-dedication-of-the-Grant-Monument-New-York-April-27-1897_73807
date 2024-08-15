@@ -1,5 +1,8 @@
 _repo: Address-of-President-McKinley-at-the-dedication-of-the-Grant-Monument-New-York-April-27-1897_73807
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73807-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: McKinley, William
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1656
     wikipedia: https://en.wikipedia.org/wiki/William_McKinley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73807#Address-of-President-McKinley-at-the-dedication-of-the-Grant-Monument-New-York-April-27-1897
 gutenberg_issued: '2024-06-11'
 gutenberg_type: Text
 identifiers:
